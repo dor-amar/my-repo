@@ -1,3 +1,3 @@
-prdint(Hello)
+print(Hello)
 print(hey)
 
